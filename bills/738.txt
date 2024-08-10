@@ -1,0 +1,23 @@
+		*Welcome Customer*
+
+Bill Number: .!labelframe.!entry3
+
+Customer Name: kavya
+
+Customer Phone Number: 986323278
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Hair Spray			2			600 Rs
+Oil			1			120 Rs
+Tea			7			6860 Rs
+Sprite			1			45 Rs
+-------------------------------------------------------
+Cosmetic Tax				0.0 Rs
+Grocery Tax				55.0 Rs
+Drink Tax				5.3999999999999995 Rs
+-------------------------------------------------------
+
+Total Bill 				1205.4 Rs
+

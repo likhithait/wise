@@ -1,0 +1,12 @@
+		*Welcome Customer*
+
+Bill Number: .!labelframe.!entry3
+
+Customer Name: charmitha
+
+Customer Phone Number: 5235436276
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+

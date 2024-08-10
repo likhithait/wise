@@ -1,0 +1,24 @@
+		*Welcome Customer*
+
+Bill Number: 894
+
+Customer Name: rishitha jampana
+
+Customer Phone Number: 7396028728
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+-------------------------------------------------------
+Cosmetic Tax				28.799999999999997 Rs
+Grocery Tax				28.799999999999997Rs
+Drink Tax				540.0Rs
+-------------------------------------------------------
+
+Total Bill 				6253.8 Rs
+
+Bath Soap			12			240 Rs
+Hair Spray			4			600 Rs
+Wheat			6			480 Rs
+Tea			3			420 Rs
+Dew			0			0 Rs

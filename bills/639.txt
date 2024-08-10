@@ -1,0 +1,22 @@
+	*Welcome Customer*
+
+Bill Number: 584
+
+Customer Name: usha
+
+Customer Phone Number: 9856724471
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+-------------------------------------------------------
+Cosmetic Tax				9.6 Rs
+Grocery Tax				9.6Rs
+Drink Tax				61.199999999999996Rs
+-------------------------------------------------------
+
+Total Bill 				1500.8 Rs
+
+Hair Gel			1			80 Rs
+Daal			8			800 Rs
+Dew			2			60 Rs

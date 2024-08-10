@@ -1,0 +1,12 @@
+		*Welcome Customer*
+
+Bill Number: .!labelframe.!entry3
+
+Customer Name: amrutha
+
+Customer Phone Number: 1234567891
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+

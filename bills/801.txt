@@ -1,0 +1,23 @@
+		*Welcome Customer*
+
+Bill Number: .!labelframe.!entry3
+
+Customer Name: bhanu
+
+Customer Phone Number: 8245630532
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Face Wash			8			6400 Rs
+Oil			4			1920 Rs
+Sugar			4			800 Rs
+Pepsi			1			20 Rs
+-------------------------------------------------------
+Cosmetic Tax				96.0 Rs
+Grocery Tax				34.0 Rs
+Drink Tax				2.4 Rs
+-------------------------------------------------------
+
+Total Bill 				1632.4 Rs
+

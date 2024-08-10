@@ -1,0 +1,22 @@
+		*Welcome Customer*
+
+Bill Number: .!labelframe.!entry3
+
+Customer Name: supriya
+
+Customer Phone Number: 8932578996
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Hair Spray			2			600 Rs
+Rice			1			30 Rs
+Sprite			1			45 Rs
+-------------------------------------------------------
+Cosmetic Tax				0.0 Rs
+Grocery Tax				1.5 Rs
+Drink Tax				5.3999999999999995 Rs
+-------------------------------------------------------
+
+Total Bill 				81.9 Rs
+
